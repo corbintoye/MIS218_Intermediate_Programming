@@ -1,0 +1,15 @@
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\bin\Debug\SimpleFinances.exe.config
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\bin\Debug\SimpleFinances.exe
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\bin\Debug\SimpleFinances.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.csproj.AssemblyReference.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.Properties.Resources.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.csproj.GenerateResource.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.csproj.CoreCompileInputs.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.exe
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.SimpleFinances.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\bin\Debug\FinalLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\bin\Debug\FinalLib.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.csproj.CopyComplete
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.CategoryManagement.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\SimpleFinances\obj\Debug\SimpleFinances.PayeeManagement.resources

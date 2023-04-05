@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33214.272
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SimpleGradebook", "SimpleGradebook\SimpleGradebook.csproj", "{D301E2EA-2104-4196-BD72-26AE414C7A57}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MidtermLib", "MidtermLib\MidtermLib.csproj", "{3D36C06E-890D-426A-BB57-9A7EB22F6C0E}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D301E2EA-2104-4196-BD72-26AE414C7A57}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D301E2EA-2104-4196-BD72-26AE414C7A57}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D301E2EA-2104-4196-BD72-26AE414C7A57}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D301E2EA-2104-4196-BD72-26AE414C7A57}.Release|Any CPU.Build.0 = Release|Any CPU
+		{3D36C06E-890D-426A-BB57-9A7EB22F6C0E}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3D36C06E-890D-426A-BB57-9A7EB22F6C0E}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3D36C06E-890D-426A-BB57-9A7EB22F6C0E}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3D36C06E-890D-426A-BB57-9A7EB22F6C0E}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {915C6DED-EEF8-400A-B16B-1EB4888CC521}
+	EndGlobalSection
+EndGlobal

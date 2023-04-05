@@ -1,0 +1,6 @@
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\bin\Debug\MidtermLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\bin\Debug\MidtermLib.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\obj\Debug\MidtermLib.csproj.CoreCompileInputs.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\obj\Debug\MidtermLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\obj\Debug\MidtermLib.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\MidtermLib\obj\Debug\MidtermLib.csproj.AssemblyReference.cache

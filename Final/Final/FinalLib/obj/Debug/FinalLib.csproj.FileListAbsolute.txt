@@ -1,0 +1,6 @@
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\bin\Debug\FinalLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\bin\Debug\FinalLib.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\obj\Debug\FinalLib.csproj.AssemblyReference.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\obj\Debug\FinalLib.csproj.CoreCompileInputs.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\obj\Debug\FinalLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Final\Final\FinalLib\obj\Debug\FinalLib.pdb

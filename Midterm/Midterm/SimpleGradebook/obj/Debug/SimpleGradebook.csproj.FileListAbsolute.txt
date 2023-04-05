@@ -1,0 +1,17 @@
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\bin\Debug\SimpleGradebook.exe.config
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\bin\Debug\SimpleGradebook.exe
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\bin\Debug\SimpleGradebook.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.csproj.AssemblyReference.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.SGHome.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.Properties.Resources.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.csproj.GenerateResource.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.csproj.CoreCompileInputs.cache
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.exe
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.ManageStudent.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.ManageAssignment.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.ManageGrade.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.ReportCard.resources
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\bin\Debug\MidtermLib.dll
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\bin\Debug\MidtermLib.pdb
+C:\Users\corto\Documents\School\OIT\MIS218 Intermediate Programming in C#\Repo\MIS218_CToye_Labs\Midterm\Midterm\SimpleGradebook\obj\Debug\SimpleGradebook.csproj.CopyComplete
